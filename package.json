@@ -1,23 +1,28 @@
 {
-    "name": "funny-purple-color",
-    "displayName": "Funny purple color",
-    "description": "purple color theme because idk",
-    "publisher": "GilbertoGaspar",
-    "icon": "./assets/icon.png",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.71.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "purple",
-                "uiTheme": "vs-dark",
-                "path": "./themes/funnyPurple-color-theme.json"
-            }
-        ]
-    }
+	"name": "funny-purple-color",
+	"displayName": "Funny purple color",
+	"description": "purple color theme because idk",
+	"publisher": "GilbertoGaspar",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/funnyPurple-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9a618aaf-f955-44fa-9433-a303186446f0",
+		"publisherDisplayName": "Gilberto Gaspar",
+		"publisherId": "cbc3c6dc-fa31-460f-b69c-f37de34bfa80",
+		"isPreReleaseVersion": false
+	}
 }
