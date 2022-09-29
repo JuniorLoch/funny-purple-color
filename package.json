@@ -2,6 +2,7 @@
     "name": "funny-purple-color",
     "displayName": "Funny purple color",
     "description": "purple color theme because idk",
+    "icon": "assets/icon.png",
     "publisher": "GilbertoGaspar",
     "version": "0.0.4",
     "engines": {
@@ -27,6 +28,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/JuniorLoch/funny-purple-color.git"
+        "url": "https://github.com/JuniorLoch/funny-purple-color.git"
     }
 }
