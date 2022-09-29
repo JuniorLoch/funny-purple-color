@@ -1,0 +1,23 @@
+{
+    "name": "funny-purple-color",
+    "displayName": "Funny purple color",
+    "description": "purple color theme because idk",
+    "publisher": "GilbertoGaspar",
+    "icon": "./assets/icon.png",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.71.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/funnyPurple-color-theme.json"
+            }
+        ]
+    }
+}
