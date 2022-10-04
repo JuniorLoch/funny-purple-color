@@ -2,6 +2,6 @@
 
 # Screenshots
 
-![Example](./assets/example.png)
+![Example](https://github.com/JuniorLoch/funny-purple-color/blob/main/assets/example.png?raw=true)
 
-![Example2](./assets/example2.png)
+![Example2](https://github.com/JuniorLoch/funny-purple-color/blob/main/assets/example2.png?raw=true)
