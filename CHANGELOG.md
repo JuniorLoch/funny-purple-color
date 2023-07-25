@@ -4,6 +4,10 @@ All notable changes to the "funny-purple-color" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.0] - 2023-07-25
+
+-   New features: Neon and 80s animations!
+
 ## [0.0.5] - 2022-09-29
 
 ### Added
