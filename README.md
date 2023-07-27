@@ -42,6 +42,6 @@ CSS and JS`
 
 ## Neon enabled
 
-![Example](https://github.com/JuniorLoch/funny-purple-color/blob/main/assets/example.png?raw=true)
+![Example](https://github.com/JuniorLoch/funny-purple-color/blob/main/assets/exampleneon.png?raw=true)
 
-![Example2](https://github.com/JuniorLoch/funny-purple-color/blob/main/assets/example2.png?raw=true)
+![Example2](https://github.com/JuniorLoch/funny-purple-color/blob/main/assets/exampleneon2.png?raw=true)

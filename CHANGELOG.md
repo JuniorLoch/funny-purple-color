@@ -4,9 +4,16 @@ All notable changes to the "funny-purple-color" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.1] - 2023-07-27
+
+-   Fixing neon screenshots examples
+
 ## [0.1.0] - 2023-07-25
 
--   New features: Neon and 80s animations!
+-   New feature: Neon effects across the editor from synthwave
+-   New feature: 80s animations on th editor from fluoromachine
+-   Added a working Readme
+-   New logo!
 
 ## [0.0.5] - 2022-09-29
 
