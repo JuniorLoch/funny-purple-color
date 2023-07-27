@@ -18,8 +18,8 @@
 
 ```json
 "vscode_custom_css.imports": [
-        "file:///C:/Users/{your username}/.vscode/extensions/funny-purple-color/neon-css/funny-purple.css",
-        "file:///C:/Users/{your username}/.vscode/extensions/funny-purple-color/neon-css/epic-80s-transitions.css"
+        "file:///C:/Users/{your username}/.vscode/extensions/gilbertogaspar.funny-purple-color-0.1.2/neon-css/funny-purple.css",
+        "file:///C:/Users/{your username}/.vscode/extensions/gilbertogaspar.funny-purple-color-0.1.2/neon-css/epic-80s-transitions.css"
     ],
 ```
 
